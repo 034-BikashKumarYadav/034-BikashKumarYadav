@@ -1,7 +1,10 @@
- <a> <img  height="" src="https://komarev.com/ghpvc/?username=034-BikashKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="034-BikashKumarYadav" /></a> 
- <br>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000&background=FFFFFF00&lines=Love+to+Open+Source;Enthusiastic+in+Web+Development;Enthusiastic+in+Artificial+Intelligence;Enthusiastic+in+Competitive+Programming;Enthusiastic+in+DSA;Enthusiastic+in+DevOps
-)](https://git.io/typing-svg)
+ <a> <img  height="" src="https://komarev.com/ghpvc/?username=034-BikashKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="034-BikashKumarYadav" /></a> <br>
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=000&background=FFFFFF00&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG">
+  </a>
+</div>
+
 # BIKASH KUMAR YADAV 
  Master of Computer Applications (MCA '24)                                                   
  National Institute of Technology, Tiruchirappalli, India  
