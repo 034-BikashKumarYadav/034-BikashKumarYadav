@@ -14,8 +14,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaduvanshibikash1998@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/034-BikashKumarYadav)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF9900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=FF0000)](https://codeforces.com) 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=about&logoColor=white)](https://034-bikashkumaryadav.github.io/Personal-Portfolio-Portal/)
 [![Blogs](https://img.shields.io/badge/Blogs-0F9D58?style=for-the-badge&logo=rss&logoColor=black)](#)<br>
